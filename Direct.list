@@ -7,7 +7,9 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
+DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,dns.cloudflare.com
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
@@ -323,6 +325,8 @@ DOMAIN-SUFFIX,xunlei.com
 
 # Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
+#DOMAIN-SUFFIX,ajax.cloudflare.com
+#DOMAIN-SUFFIX,cdnjs.cloudflare.com
 #DOMAIN-SUFFIX,code.jquery.com
 DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bootcss.com
